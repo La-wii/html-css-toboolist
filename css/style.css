@@ -39,3 +39,27 @@ main {
 .lightgray {
     color: lightgray;
 }
+
+.editorial {
+    background-color: lightskyblue;
+}
+
+.q1-goals {
+    background-color: violet;
+}
+
+.recruiting {
+    background-color: aquamarine;
+}
+
+.mobile {
+    background-color: orange;
+}
+
+.website { 
+    background-color: palevioletred;
+}
+
+.sales {
+    background-color: lightgreen;
+}
