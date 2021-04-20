@@ -63,7 +63,7 @@ li {
     content: '\2713';
     color: green;
     background-color: rgb(202, 231, 202);
-    padding: 5px;
+    padding:  3px 5px;
     border-radius: 100% ;
     margin-right: 5px;
     
@@ -73,7 +73,7 @@ li {
     content: '\2717';
     color: red;
     background-color: rgb(223, 184, 184);
-    padding: 5px;
+    padding:  5px 8px;
     border-radius: 100% ;
     margin-right: 5px;
 
