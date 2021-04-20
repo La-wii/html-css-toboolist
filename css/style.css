@@ -35,6 +35,14 @@ main {
     background-color: lightskyblue;
 }
 /* sezioni new task, today, upcoming */
+h2 {
+    font-size: 35px;
+}
+
+li {
+    font-size: 25px;
+}
+
 .done::before {
     content: '\2713';
     color: green;
