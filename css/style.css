@@ -25,10 +25,14 @@ main {
     background-color: white;
     padding-top: 30px;
     border-radius: 20px;
+    line-height: 1.6;
 }
 .button-section {
     margin-top: 10px;
     margin-bottom: 10px;
+}
+.light-blue {
+    background-color: lightskyblue;
 }
 /* sezioni new task, today, upcoming */
 .done::before {
