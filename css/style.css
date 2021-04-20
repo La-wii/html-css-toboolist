@@ -15,5 +15,16 @@
 
 /* main */
 main {
-    background-color: #F6F8F9;
+    background-color: lightgray;
+}
+
+/* container */
+.container {
+    width: 60%;
+    margin: auto;
+    background-color: white;
+    padding-top: 30px;
+}
+.button-section {
+    padding-top: 30px;
 }
