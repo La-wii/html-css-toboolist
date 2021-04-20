@@ -62,11 +62,18 @@ li {
 .done::before {
     content: '\2713';
     color: green;
+    background-color: rgb(202, 231, 202);
+    padding: 5px;
+    border-radius: 100% ;
+    
 }
 
 .not-done::before {
     content: '\2717';
     color: red;
+    background-color: rgb(223, 184, 184);
+    padding: 5px;
+    border-radius: 100% ;
 }
 
 ul {
