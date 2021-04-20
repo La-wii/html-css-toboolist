@@ -24,7 +24,13 @@ main {
     margin: auto;
     background-color: white;
     padding-top: 30px;
+    border-radius: 20px;
 }
 .button-section {
-    padding-top: 30px;
+    /* padding-top: 30px; */
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.lightgray {
+    color: lightgray;
 }
