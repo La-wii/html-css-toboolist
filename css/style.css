@@ -30,13 +30,24 @@ main {
 .button-section {
     margin-top: 10px;
     margin-bottom: 10px;
+    margin-left: 50px;
 }
 .light-blue {
     background-color: lightskyblue;
 }
+
+hr {
+    margin-bottom: 20px;
+}
+
 /* sezioni new task, today, upcoming */
+h2::before {
+    content: '\0025BE';
+}
+
 h2 {
     font-size: 35px;
+    margin-left: 50px;
 }
 
 li {
