@@ -36,6 +36,11 @@ main {
     color: green;
 }
 
+.not-done::before {
+    content: '\2717';
+    color: red;
+}
+
 ul {
     list-style-type: none;
 }
