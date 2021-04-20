@@ -1,7 +1,8 @@
 * {
     box-sizing: border-box;
+    margin: 0;
 }
-
+/* header */
 #logo-boolean {
     height: 50px;
     line-height: 50px;
@@ -10,4 +11,9 @@
 
 .toboolist {
     font-size: 40px;
+}
+
+/* main */
+main {
+    background-color: #F6F8F9;
 }
