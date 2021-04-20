@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+#logo-boolean {
+    height: 50px;
+    line-height: 50px;
+    vertical-align: middle;
+}
+
+.toboolist {
+    font-size: 40px;
+}
