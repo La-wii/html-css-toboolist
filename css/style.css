@@ -27,11 +27,21 @@ main {
     border-radius: 20px;
 }
 .button-section {
-    /* padding-top: 30px; */
     margin-top: 10px;
     margin-bottom: 10px;
 }
+/* sezioni new task, today, upcoming */
+.done::before {
+    content: '\2713';
+    color: green;
+}
 
+ul {
+    list-style-type: none;
+}
+
+
+/* labels  */
 span {
     color: white;
     font-size: 10px;
