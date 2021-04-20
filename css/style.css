@@ -32,6 +32,14 @@ main {
     margin-bottom: 10px;
 }
 
+span {
+    color: white;
+    font-size: 10px;
+    padding: 2px 5px;
+    border-radius: 10px;
+}
+
+/* labels color */
 .button {
     border-radius: 5px;
 }
