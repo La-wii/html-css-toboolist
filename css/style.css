@@ -60,23 +60,24 @@ li {
 }
 
 .done::before {
-    content: '\2713';
-    color: green;
-    background-color: rgb(202, 231, 202);
-    padding:  3px 5px;
-    border-radius: 100% ;
-    margin-right: 5px;
+    content:'\2713';
+    color:#64c0a9;
+    font-size:14px;
+    border:1px solid #64c0a9;
+    border-radius:100%;
+    padding:2px 5px;
+    margin-right:8px;
     
 }
 
 .not-done::before {
-    content: '\2717';
-    color: red;
-    background-color: rgb(223, 184, 184);
-    padding:  5px 8px;
-    border-radius: 100% ;
-    margin-right: 5px;
-
+    content:'\2715';
+    color:#eb5a53;
+    font-size:14px;
+    border:1px solid #eb5a53;
+    border-radius:100%;
+    padding:2px 5px;
+    margin-right:8px;
 }
 
 ul {
